@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0;
+    font-family: sans-serif;
+}
+.checkout{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(21, 126, 161);
+}
+.checkout h1{
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+.left{
+    height: 200px;
+    width: 600px;;
+    float: left;
+    background-color: rgb(234, 225, 225);
+    margin-left: 150px;
+    margin-top: 200px;
+}
+.left h2{
+    float: left;
+    padding: 10px;
+    
+}
+.image1{
+    border: 1px  solid;
+    height: 70px;
+    width: 590px;
+    margin-top: 70px;
+}
+.image1 p{
+    float: left;
+    padding: 15px;
+    font-weight: 600;
+}
+.image1 img{
+    float: left;
+    margin-left: 20px;
+   
+}
+.image1 h5{
+    float: right;
+    padding: 30px;
+}
